@@ -1,1 +1,3 @@
-# MCQ Quiz Game in Python with intergrated Database
+# 🎮 MCQ Quiz Game
+
+Quiz game in Python with intergrated Database
