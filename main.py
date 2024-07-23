@@ -59,10 +59,11 @@ class QuizGame:
             # writing the score into the user_info table
             cursor.execute("UPDATE user_info SET score = %s WHERE username = %s",(score,username))
             connection.commit()
+            cursor.close()
             choice = input("Do you want to play the quiz game? (yes/no): ")
             
         
-        
+
     def login(self):
         os.system('cls')
         print("="*120)
