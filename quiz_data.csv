@@ -1,0 +1,201 @@
+Sno,Question,Option A,Option B,Option C,Option D,Correct Option
+1,What is the square root of 144?,10,11,12,13,C
+2,What planet is known as the Red Planet?,Earth,Mars,Venus,Jupiter,B
+3,Who wrote 'Hamlet'?,William Wordsworth,William Shakespeare,Charles Dickens,Mark Twain,B
+4,What is the chemical symbol for water?,HO,H2O,O2H,HHO,B
+5,What is the capital of France?,Paris,Berlin,Madrid,Rome,A
+6,What is 25% of 200?,25,50,75,100,B
+7,Who discovered gravity?,Isaac Newton,Albert Einstein,Galileo Galilei,Nikola Tesla,A
+8,How many continents are there on Earth?,5,6,7,8,C
+9,What is the powerhouse of the cell?,Nucleus,Ribosome,Mitochondria,Chloroplast,C
+10,Who was the first president of the United States?,Abraham Lincoln,George Washington,John Adams,Thomas Jefferson,B
+11,What is the sum of the angles in a triangle?,180 degrees,360 degrees,90 degrees,270 degrees,A
+12,What gas do plants absorb from the atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,B
+13,Which planet is the largest in our solar system?,Earth,Saturn,Jupiter,Neptune,C
+14,Who painted the Mona Lisa?,Vincent Van Gogh,Pablo Picasso,Leonardo da Vinci,Michelangelo,C
+15,What is the smallest prime number?,1,2,3,5,B
+16,What is the main gas found in the air we breathe?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,C
+17,What is the capital of Japan?,Tokyo,Beijing,Seoul,Bangkok,A
+18,Who formulated the theory of relativity?,Isaac Newton,Albert Einstein,Stephen Hawking,Marie Curie,B
+19,How many states are there in the United States?,48,49,50,51,C
+20,What is the largest organ in the human body?,Heart,Liver,Skin,Lung,C
+21,What is the value of Pi to two decimal places?,3.12,3.14,3.15,3.16,B
+22,Which element has the chemical symbol 'O'?,Oxygen,Gold,Silver,Iron,A
+23,What is the currency of the United Kingdom?,Euro,Dollar,Pound,Yen,C
+24,What is the boiling point of water in Celsius?,90,95,100,105,C
+25,Who wrote 'Pride and Prejudice'?,Emily Bronte,Jane Austen,Charles Dickens,Mark Twain,B
+26,What is the capital city of Australia?,Sydney,Melbourne,Canberra,Brisbane,C
+27,What is the smallest bone in the human body?,Femur,Stapes,Tibia,Humerus,B
+28,What is 3 multiplied by 7?,20,21,22,23,B
+29,What is the largest mammal?,Elephant,Blue Whale,Giraffe,Hippopotamus,B
+30,What is the chemical formula for table salt?,NaCl,KCl,HCl,CaCl2,A
+31,Which continent is known as the 'Dark Continent'?,Asia,Africa,Europe,Australia,B
+32,Who invented the telephone?,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Guglielmo Marconi,A
+33,What is the largest planet in our solar system?,Mars,Saturn,Jupiter,Uranus,C
+34,What is the capital of Italy?,Paris,Rome,Madrid,Athens,B
+35,What is the first element on the periodic table?,Helium,Hydrogen,Lithium,Beryllium,B
+36,Who developed the theory of evolution?,Gregor Mendel,Charles Darwin,Louis Pasteur,Alexander Fleming,B
+37,What is the hardest natural substance on Earth?,Gold,Iron,Diamond,Platinum,C
+38,What is the largest ocean on Earth?,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean,D
+39,What is the capital of Canada?,Toronto,Ottawa,Vancouver,Montreal,B
+40,How many teeth does an adult human have?,28,30,32,34,C
+41,What is the atomic number of carbon?,4,6,8,12,B
+42,What is the freezing point of water in Celsius?,0,32,-1,-10,A
+43,Who wrote the play 'Romeo and Juliet'?,William Wordsworth,William Shakespeare,Charles Dickens,Mark Twain,B
+44,What is the largest internal organ in the human body?,Heart,Liver,Skin,Lung,B
+45,What is the longest river in the world?,Amazon River,Nile River,Mississippi River,Yangtze River,B
+46,What is the chemical symbol for gold?,Au,Ag,Pb,Fe,A
+47,What is the capital of Germany?,Berlin,Munich,Frankfurt,Hamburg,A
+48,What is 9 divided by 3?,2,3,4,5,B
+49,What is the largest planet in our solar system?,Mars,Saturn,Jupiter,Neptune,C
+50,Who painted the ceiling of the Sistine Chapel?,Leonardo da Vinci,Michelangelo,Raphael,Donatello,B
+51,What is the smallest unit of matter?,Molecule,Atom,Electron,Proton,B
+52,What is the capital of China?,Shanghai,Beijing,Hong Kong,Taipei,B
+53,What is the speed of light in vacuum?,3 x 10^6 m/s,3 x 10^7 m/s,3 x 10^8 m/s,3 x 10^9 m/s,C
+54,Who wrote 'To Kill a Mockingbird'?,Harper Lee,Mark Twain,Ernest Hemingway,F. Scott Fitzgerald,A
+55,What is the capital of Spain?,Madrid,Barcelona,Valencia,Seville,A
+56,What is the primary component of the sun?,Helium,Carbon,Oxygen,Hydrogen,D
+57,Who is known as the 'Father of Computers'?,Alan Turing,Charles Babbage,Bill Gates,Steve Jobs,B
+58,What is the boiling point of water in Fahrenheit?,200,212,220,230,B
+59,What is the capital of Russia?,St. Petersburg,Moscow,Kiev,Minsk,B
+60,What is the chemical formula for carbon dioxide?,CO,CO2,C2O,C2O2,B
+61,What is the smallest planet in our solar system?,Earth,Mars,Mercury,Venus,C
+62,Who discovered penicillin?,Alexander Fleming,Marie Curie,Louis Pasteur,Jonas Salk,A
+63,What is the capital of India?,Mumbai,New Delhi,Kolkata,Chennai,B
+64,What is the chemical symbol for silver?,Ag,Au,Pb,Fe,A
+65,Who developed the laws of motion?,Albert Einstein,Isaac Newton,Galileo Galilei,Nikola Tesla,B
+66,What is the largest desert in the world?,Sahara Desert,Gobi Desert,Kalahari Desert,Arabian Desert,A
+67,What is the capital of Brazil?,Rio de Janeiro,São Paulo,Brasília,Salvador,C
+68,What is the chemical formula for methane?,CH3,CH4,C2H4,C2H6,B
+69,Who is the author of '1984'?,Aldous Huxley,George Orwell,Ray Bradbury,Isaac Asimov,B
+70,What is the capital of Egypt?,Cairo,Alexandria,Giza,Luxor,A
+71,What is the chemical formula for sulfuric acid?,H2SO3,H2SO4,H2S,SO2,B
+72,What is the name of the first man to walk on the moon?,Buzz Aldrin,Neil Armstrong,Yuri Gagarin,Michael Collins,B
+73,What is the chemical formula for glucose?,C6H12O6,C6H10O5,C6H8O4,C6H6O3,A
+74,What is the capital of Argentina?,Buenos Aires,Rosario,Córdoba,Mendoza,A
+75,What is the largest planet in our solar system?,Mars,Saturn,Jupiter,Uranus,C
+76,What is the chemical formula for sodium chloride?,NaCl,KCl,HCl,CaCl2,A
+77,What is the capital of South Korea?,Tokyo,Beijing,Seoul,Bangkok,C
+78,What is the chemical formula for ammonia?,NH3,NH4,NH2,N2H4,A
+79,Who is known as the 'Father of Medicine'?,Hippocrates,Galen,Avicenna,Paracelsus,A
+80,What is the capital of Australia?,Sydney,Melbourne,Canberra,Brisbane,C
+81,What is the chemical formula for oxygen?,O,O2,O3,O4,B
+82,Who discovered the electron?,Niels Bohr,Ernest Rutherford,J.J. Thomson,James Chadwick,C
+83,What is the capital of Mexico?,Monterrey,Guadalajara,Mexico City,Tijuana,C
+84,What is the chemical formula for carbon monoxide?,CO,CO2,C2O,C2O2,A
+85,Who is the author of 'The Catcher in the Rye'?,F. Scott Fitzgerald,J.D. Salinger,Ernest Hemingway,Mark Twain,B
+86,What is the capital of Canada?,Toronto,Ottawa,Vancouver,Montreal,B
+87,What is the chemical formula for sulfur dioxide?,SO2,SO3,H2SO4,H2SO3,A
+88,Who discovered radioactivity?,Marie Curie,Albert Einstein,Wilhelm Roentgen,Niels Bohr,A
+89,What is the capital of Japan?,Tokyo,Beijing,Seoul,Bangkok,A
+90,What is the chemical formula for hydrochloric acid?,HCl,H2Cl,H2Cl2,HCl2,A
+91,Who is the author of 'Pride and Prejudice'?,Jane Austen,Emily Bronte,Charles Dickens,Mark Twain,A
+92,What is the capital of Italy?,Paris,Rome,Madrid,Athens,B
+93,What is the chemical formula for nitric acid?,HNO3,HNO2,H2NO3,H2NO2,A
+94,Who discovered the neutron?,Niels Bohr,Ernest Rutherford,J.J. Thomson,James Chadwick,D
+95,What is the capital of Russia?,St. Petersburg,Moscow,Kiev,Minsk,B
+96,What is the chemical formula for hydrogen peroxide?,H2O2,H2O,H2O3,H2O4,A
+97,Who is the author of 'To Kill a Mockingbird'?,Harper Lee,Mark Twain,Ernest Hemingway,F. Scott Fitzgerald,A
+98,What is the capital of Brazil?,Rio de Janeiro,São Paulo,Brasília,Salvador,C
+99,What is the chemical formula for acetic acid?,CH3COOH,C2H5COOH,C3H7COOH,C4H9COOH,A
+100,Who is the author of '1984'?,Aldous Huxley,George Orwell,Ray Bradbury,Isaac Asimov,B
+101,What is the extension for a Python file?,.py,.java,.cs,.cpp,A
+102,What does HTML stand for?,HyperText Markup Language,HyperText Makeup Language,HyperTool Markup Language,HyperTech Markup Language,A
+103,Which company developed the Java programming language?,Microsoft,Sun Microsystems,IBM,Apple,B
+104,What is the purpose of CSS in web development?,Structure,Style,Functionality,Content,B
+105,Which language is used for creating Android apps?,Python,Java,Swift,Ruby,B
+106,What is the main function of the 'if' statement in programming?,Looping,Condition checking,Printing,Variable declaration,B
+107,Which of the following is a Python framework for web development?,Laravel,Django,Spring,React,B
+108,In which language is the Linux kernel written?,Python,Java,C,C++,C
+109,What does SQL stand for?,Structured Query Language,Simple Query Language,Sorted Query Language,Standard Query Language,A
+110,Which of the following is a JavaScript library?,Angular,Flask,Django,jQuery,D
+111,What is the purpose of the 'for' loop?,Conditional branching,Function declaration,Iteration,Exception handling,C
+112,Which language is primarily used for data analysis and statistical computing?,Java,Python,Ruby,C++,B
+113,What does API stand for?,Application Programming Interface,Applied Programming Interface,Advanced Programming Interface,Application Programming Interaction,A
+114,Which of the following is a version control system?,Git,Docker,Jenkins,Ansible,A
+115,What is the use of the 'class' keyword in programming?,Looping,Conditional checking,Defining a blueprint,Importing libraries,C
+116,What is the file extension for a JavaScript file?,.js,.java,.jsx,.jsc,A
+117,Which of the following is a front-end framework?,Flask,Laravel,Angular,Django,C
+118,What does XML stand for?,Extra Markup Language,Extensible Markup Language,Extended Markup Language,Example Markup Language,B
+119,Which language is used for styling web pages?,HTML,SQL,CSS,XML,C
+120,Which of the following is a database management system?,Linux,Apache,MySQL,GitHub,C
+121,What is the purpose of the 'return' statement in a function?,Stop the function,Call another function,Return a value,Print a message,C
+122,What is the extension for a C++ file?,.cpp,.c,.cp,.cc,A
+123,Which of the following is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C
+124,What is the use of the 'def' keyword in Python?,Looping,Conditional checking,Defining a function,Importing libraries,C
+125,Which language is used for iOS app development?,Java,Swift,Kotlin,Ruby,B
+126,What does IDE stand for?,Integrated Development Environment,Interactive Development Environment,Internal Development Environment,Intelligent Development Environment,A
+127,Which of the following is a back-end framework?,React,Vue.js,Angular,Express.js,D
+128,What is the purpose of the 'break' statement in a loop?,Continue looping,Exit the loop,Print a message,Restart the loop,B
+129,What is the extension for a Java file?,.js,.java,.jav,.jv,B
+130,Which of the following is a JavaScript framework?,React,Flask,Django,Laravel,A
+131,What does JSON stand for?,JavaScript Object Notation,Java Object Notation,JavaScript Open Notation,JavaScript Output Notation,A
+132,Which of the following is used for containerization?,Git,Docker,Jenkins,Ansible,B
+133,What is the main purpose of a constructor in a class?,Looping,Initializing objects,Checking conditions,Returning values,B
+134,What is the file extension for a PHP file?,.php,.ph,.pp,.phpx,A
+135,Which of the following is a Python web framework?,Ruby on Rails,Spring,Django,Flask,C
+136,What does DOM stand for?,Document Object Model,Data Object Model,Document Orientation Model,Data Orientation Model,A
+137,Which of the following is a version control hosting service?,Linux,Apache,GitHub,Docker,C
+138,What is the purpose of the 'continue' statement in a loop?,Exit the loop,Skip the current iteration,Restart the loop,End the loop,B
+139,What is the extension for a Ruby file?,.rb,.ruby,.rby,.r,A
+140,Which of the following is a front-end library?,Flask,React,Django,Laravel,B
+141,What does CSS stand for?,Cascading Style Sheets,Cascading Simple Sheets,Cascading Sheet Styles,Cascading Simple Styles,A
+142,Which of the following is a relational database?,MongoDB,Redis,MySQL,CouchDB,C
+143,What is the use of the 'lambda' keyword in Python?,Defining a function,Defining an anonymous function,Looping,Checking conditions,B
+144,Which language is used for machine learning and data science?,Java,Python,C++,Swift,B
+145,What does SQL stand for?,Structured Query Language,Simple Query Language,Sorted Query Language,Standard Query Language,A
+146,Which of the following is a continuous integration tool?,Git,Docker,Jenkins,Ansible,C
+147,What is the main function of a destructor in a class?,Creating objects,Deleting objects,Checking conditions,Returning values,B
+148,What is the file extension for a Perl file?,.pl,.perl,.pe,.prl,A
+149,Which of the following is a back-end language?,JavaScript,HTML,CSS,PHP,D
+150,What does XML stand for?,Extra Markup Language,Extensible Markup Language,Extended Markup Language,Example Markup Language,B
+151,Which of the following is used for version control?,Git,Docker,Jenkins,Ansible,A
+152,What is the purpose of the 'elif' statement in Python?,Looping,Conditional branching,Defining functions,Printing messages,B
+153,What is the extension for a JavaScript file?,.js,.java,.jsx,.jsc,A
+154,Which of the following is a front-end framework?,Flask,Laravel,Angular,Django,C
+155,What does API stand for?,Application Programming Interface,Applied Programming Interface,Advanced Programming Interface,Application Programming Interaction,A
+156,Which of the following is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C
+157,What is the use of the 'import' keyword in Python?,Looping,Importing libraries,Checking conditions,Defining functions,B
+158,Which language is used for iOS app development?,Java,Swift,Kotlin,Ruby,B
+159,What does IDE stand for?,Integrated Development Environment,Interactive Development Environment,Internal Development Environment,Intelligent Development Environment,A
+160,Which of the following is a back-end framework?,React,Vue.js,Angular,Express.js,D
+161,What is the purpose of the 'break' statement in a loop?,Continue looping,Exit the loop,Print a message,Restart the loop,B
+162,What is the extension for a Java file?,.js,.java,.jav,.jv,B
+163,Which of the following is a JavaScript framework?,React,Flask,Django,Laravel,A
+164,What does JSON stand for?,JavaScript Object Notation,Java Object Notation,JavaScript Open Notation,JavaScript Output Notation,A
+165,Which of the following is used for containerization?,Git,Docker,Jenkins,Ansible,B
+166,What is the main purpose of a constructor in a class?,Looping,Initializing objects,Checking conditions,Returning values,B
+167,What is the file extension for a PHP file?,.php,.ph,.pp,.phpx,A
+168,Which of the following is a Python web framework?,Ruby on Rails,Spring,Django,Flask,C
+169,What does DOM stand for?,Document Object Model,Data Object Model,Document Orientation Model,Data Orientation Model,A
+170,Which of the following is a version control hosting service?,Linux,Apache,GitHub,Docker,C
+171,What is the purpose of the 'continue' statement in a loop?,Exit the loop,Skip the current iteration,Restart the loop,End the loop,B
+172,What is the extension for a Ruby file?,.rb,.ruby,.rby,.r,A
+173,Which of the following is a front-end library?,Flask,React,Django,Laravel,B
+174,What does CSS stand for?,Cascading Style Sheets,Cascading Simple Sheets,Cascading Sheet Styles,Cascading Simple Styles,A
+175,Which of the following is a relational database?,MongoDB,Redis,MySQL,CouchDB,C
+176,What is the use of the 'lambda' keyword in Python?,Defining a function,Defining an anonymous function,Looping,Checking conditions,B
+177,Which language is used for machine learning and data science?,Java,Python,C++,Swift,B
+178,What does SQL stand for?,Structured Query Language,Simple Query Language,Sorted Query Language,Standard Query Language,A
+179,Which of the following is a continuous integration tool?,Git,Docker,Jenkins,Ansible,C
+180,What is the main function of a destructor in a class?,Creating objects,Deleting objects,Checking conditions,Returning values,B
+181,What is the file extension for a Perl file?,.pl,.perl,.pe,.prl,A
+182,Which of the following is a back-end language?,JavaScript,HTML,CSS,PHP,D
+183,What does XML stand for?,Extra Markup Language,Extensible Markup Language,Extended Markup Language,Example Markup Language,B
+184,Which of the following is used for version control?,Git,Docker,Jenkins,Ansible,A
+185,What is the purpose of the 'elif' statement in Python?,Looping,Conditional branching,Defining functions,Printing messages,B
+186,What is the extension for a JavaScript file?,.js,.java,.jsx,.jsc,A
+187,Which of the following is a front-end framework?,Flask,Laravel,Angular,Django,C
+188,What does API stand for?,Application Programming Interface,Applied Programming Interface,Advanced Programming Interface,Application Programming Interaction,A
+189,Which of the following is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C
+190,What is the use of the 'import' keyword in Python?,Looping,Importing libraries,Checking conditions,Defining functions,B
+191,Which language is used for iOS app development?,Java,Swift,Kotlin,Ruby,B
+192,What does IDE stand for?,Integrated Development Environment,Interactive Development Environment,Internal Development Environment,Intelligent Development Environment,A
+193,Which of the following is a back-end framework?,React,Vue.js,Angular,Express.js,D
+194,What is the purpose of the 'break' statement in a loop?,Continue looping,Exit the loop,Print a message,Restart the loop,B
+195,What is the extension for a Java file?,.js,.java,.jav,.jv,B
+196,Which of the following is a JavaScript framework?,React,Flask,Django,Laravel,A
+197,What does JSON stand for?,JavaScript Object Notation,Java Object Notation,JavaScript Open Notation,JavaScript Output Notation,A
+198,Which of the following is used for containerization?,Git,Docker,Jenkins,Ansible,B
+199,What is the main purpose of a constructor in a class?,Looping,Initializing objects,Checking conditions,Returning values,B
+200,What is the file extension for a PHP file?,.php,.ph,.pp,.phpx,A
