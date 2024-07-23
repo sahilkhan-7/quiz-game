@@ -52,8 +52,7 @@ class QuizGame:
                     print("Correct answer is:",result[i][6])
                 print("-"*120)
                     
-                    
-                
+            print("Quiz completed.")
             print("Your score is:",score)
             
             # writing the score into the user_info table
