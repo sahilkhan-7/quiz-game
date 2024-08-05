@@ -30,7 +30,7 @@ Welcome to the **MCQ Quiz Game**, a Python-based project designed to test your k
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mcq-quiz-game.git
+   git clone https://github.com/sahilkhan-7/quiz-game.git
    cd mcq-quiz-game
    ```
 
