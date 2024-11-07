@@ -1,8 +1,8 @@
 # MySQL Configuration
 # Change the values to your MySQL credentials
-mysql = {
+mysql_credentials = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'your_password',
-    'database': 'your_database_name'
+    'password' : 'sahilkhan@7824',
+    'database' : 'car_damage_detection'
 }
